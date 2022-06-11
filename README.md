@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/95356877/173167015-d3a1b489-6724-4c33-9892-5e9de25084d6.gif"/>
 </div>
   
-<div align="center">
+<div align="right">
   <a href="https://github.com/AnnaTRocha"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnnaTRocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaTRocha&layout=compact&langs_count=7&theme=dark"/>
