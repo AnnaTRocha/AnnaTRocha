@@ -1,22 +1,15 @@
 <div align="center">
-  <a href="https://github.com/AnnaTRocha">
+  <a href="https://github.com/AnnaTRocha"/>
   <img src="https://user-images.githubusercontent.com/95356877/173167015-d3a1b489-6724-4c33-9892-5e9de25084d6.gif"/>
 </div>
   
 <div align="center">
-  <a href="https://github.com/AnnaTRocha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnaTRocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaTRocha&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/AnnaTRocha"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=AnnaTRocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaTRocha&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div>  
-  <a href="https://www.linkedin.com/in/anna-rocha-5a3126227" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:annaleletr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <!-- <a href="ANNA𓆏#8936" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
-  <br><br>
-</div>
-
-Trabalho com as tecnologias: 
+##
 
 <div>
    <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" target="_blank"></a>
@@ -29,14 +22,32 @@ Trabalho com as tecnologias:
   <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
   <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" target="_blank"></a>
   <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" target="_blank"></a>
+
+ ##
   
-Tecnologias em processo de aprendizado: 
+📝Tecnologias em processo de aprendizado: 
   
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
+  ##
   
+ 💻Work in progress:
+  
+  - Letreco(Em conjunto com [@Tenata](https://github.com/TenataOfficial) )
+  
+<div>    
+   
+  Entre em contato comigo!
+    
+  <a href="https://www.linkedin.com/in/anna-rocha-5a3126227" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:annaleletr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="ANNA𓆏#8936" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
+  
+     ANNA#8936
+  <br><br>
+</div>
   
   <!--
 <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
@@ -54,7 +65,6 @@ Tecnologias em processo de aprendizado:
   <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" target="_blank"></a>
   <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>-->
   <br><br>
-  
    ![Snake animation](https://github.com/annatrocha/anna/blob/output/github-contribution-grid-snake.svg)
   
 </div>
