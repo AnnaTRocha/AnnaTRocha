@@ -3,23 +3,33 @@
   <img src="https://user-images.githubusercontent.com/95356877/173167015-d3a1b489-6724-4c33-9892-5e9de25084d6.gif"/>
 </div>
   
-<div>
+<div align="center">
   <a href="https://github.com/AnnaTRocha"/>
-  <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=AnnaTRocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <a href="https://github.com/AnnaTRocha" target="_blank"><img align="right" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" target="_blank"></a><a href="https://github.com/AnnaTRocha" target="_blank"><img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a> <a href="https://github.com/AnnaTRocha" target="_blank"><img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a> <a href="https://github.com/AnnaTRocha" target="_blank"><img align="right" src="	https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" target="_blank"></a> <a href="https://github.com/AnnaTRocha" target="_blank"><img align="right" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" target="_blank"></a> <a href="https://github.com/AnnaTRocha" target="_blank"><img align="right" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> <a href="https://github.com/AnnaTRocha" target="_blank"><img align="right" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="_blank"></a> <a href="https://github.com/AnnaTRocha" target="_blank"><img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a> <a href="https://github.com/AnnaTRocha" target="_blank"><img align="right" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" target="_blank"></a> <a href="https://github.com/AnnaTRocha" target="_blank"><img align="right" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" target="_blank"></a>
-  
-  <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaTRocha&layout=compact&langs_count=7&theme=dark"/> 📝Tecnologias em processo de aprendizado: 
-  
-   <img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnnaTRocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaTRocha&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+##
 
+<div>
+   <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
+   <a href="https://github.com/AnnaTRocha" target="_blank"><img src="	https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" target="_blank"></a>
+   <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="_blank"></a>
+  <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" target="_blank"></a>
+  <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" target="_blank"></a>
 
-
-
-
-
-<div>  
+ ##
+  
+📝Tecnologias em processo de aprendizado: 
+  
+   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
   ##
   
@@ -47,7 +57,6 @@
   <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
   <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
-
   <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
   <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" target="_blank"></a>
   <a href="https://github.com/AnnaTRocha" target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" target="_blank"></a>
@@ -61,4 +70,3 @@
    ![Snake animation](https://github.com/annatrocha/anna/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
