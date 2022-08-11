@@ -36,8 +36,9 @@
   
  💻Work in progress:
   
-  - Letreco(Em conjunto com [@Tenata](https://github.com/TenataOfficial) )
-  - Sistema para RPG.
+  - Curso Web moderno com JavaScript - Udemy.
+  - Java 2022 - Udemy.
+  - Aprendendo a mexer com GameMaker.
   
 <div>    
    
