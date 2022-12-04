@@ -37,7 +37,6 @@
  💻Work in progress:
   
   - Curso Web moderno com JavaScript - Udemy.
-  - Java 2022 - Udemy.
   - Aprendendo a mexer com GameMaker.
   
 <div>    
@@ -52,7 +51,18 @@
   
      Discord: ANNA#8936
   <br><br>
+  
+  ##
+  
 </div>
+  
+  <h1 align="center">Certificados</h1>
+ 
+  
+<div>
+  
+  ![CertificadoJava](https://user-images.githubusercontent.com/95356877/205507362-4065484e-f33c-45ad-994e-af403d0d9105.jpg)
+ </div>
   
   ![Snake animation](https://github.com/AnnaTRocha/AnnaTRocha/blob/output/github-contribution-grid-snake.svg)
   <!--
