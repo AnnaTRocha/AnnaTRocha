@@ -62,6 +62,8 @@
 <div>
   
   ![CertificadoJava](https://user-images.githubusercontent.com/95356877/205507362-4065484e-f33c-45ad-994e-af403d0d9105.jpg)
+  ![image](https://github.com/AnnaTRocha/AnnaTRocha/assets/95356877/eaad3d53-9854-4e6b-9df9-343cf4e98d75)
+
  </div>
   
   ![Snake animation](https://github.com/AnnaTRocha/AnnaTRocha/blob/output/github-contribution-grid-snake.svg)
